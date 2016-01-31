@@ -1,0 +1,22 @@
+li {
+  color:black;
+}
+
+li a {
+  color:green;
+}
+
+/*p {
+  border: none;
+  padding:40px;
+  margin: 35px 50px 60px 100px;
+}*/
+
+body {
+ font-family: "Arial";
+}
+
+.header2 {
+padding:5px;
+color:green;
+}
