@@ -31,6 +31,12 @@ h3 {
   padding-bottom: 25px;
 }
 
+.note {
+  border: solid 5px red;
+  background: pink;
+}
+
+
 table, th, td {
     border: 2px solid purple;
         background-color:#5bc0de;
