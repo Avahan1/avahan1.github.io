@@ -3,14 +3,14 @@ body {
   width: 1200px;
   margin: 5px auto;
 }
-/*img {
-  width: 220px;
-  /*box-shadow: 4px 4px 4px #AAA;*/
+img {
+  width: 400px;
+  box-shadow: 4px 4px 4px #AAA;*/
   /*float;left;
   padding-top: 45px;
-  padding-bottom: 5px;
+  /*padding-bottom: 5px;*/
   position: relative;
-}*/*/
+}
 
 header {
   background: none
