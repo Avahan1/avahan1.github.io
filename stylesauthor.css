@@ -18,7 +18,7 @@ h3 {
 
 .brown{
   font-size: 50px;
-  color:green;
+  color:brown;
   padding-top: 25px;
   padding-bottom: 25px;
 }
@@ -26,6 +26,12 @@ h3 {
 .note {
   border: solid 5px red;
   background: pink;
+}
+
+.tube {
+padding-top: 25px;
+font-size:20px
+color:green;
 }
 
 
